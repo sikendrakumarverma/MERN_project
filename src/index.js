@@ -28,9 +28,9 @@ app.use('/', route);
 
 
 
-app.use(function (req, res) {
-    return res.status(400).send({status : false, message : "path not found"})
-    });
+// app.use(function (req, res) {
+//     return res.status(400).send({status : false, message : "path not found"})
+//     });
 
     //vercel 
 
