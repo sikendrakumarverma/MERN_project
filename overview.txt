@@ -1,0 +1,36 @@
+Project3 - Books Management Revision
+
+By – SIKENDRA KUMAR VERMA
+
+
+Project Name: Books Management Project 
+
+
+Project Overview: 
+This is a MERN Based Books Management project where we maintain information about books.
+This project is basically as a blogging site where Users reads the Books and Authors write Books for users. In this project at first Author register by giving own details and credentials and after that he will be able to login by requesting login API after he will be able to create own books as well as he also be also to Edit, Update and Delete only own books not other authors. Other authors books only would be Fetch(Get) not perform any operation on that books but any users can able to Give Review of any book’s of any Authors. And after giving Review(or creating Review) he also able to Update and Delete Reviews.
+So basically this project link Author and User to Write and Read books and share feedback(Review) of books to Authors.  
+
+Problem statement:
+
+
+● We need to develop three schemas, to store the details of Users, Author and Books.
+● We need to build two POST API for register and login both Authors and Users.
+● We need to create another Four API for Authors to Create, Get, Update, and Delete(CRUD) operation perform on Books data from the DataBase.
+And we also need to another one API for Fetch the all books which is public no restriction for any one.
+● We need to create another Three API for Users to Create, Update, and Delete Reviews of books.
+
+Approach:
+● Our server must first be set up using the express library (creating an index.js page).
+● In order to store the data in a structured manner, a schema must be created using Mongoose.
+● For the first POST API, we need to send the input data in the request body, and then the input
+must be validated to ensure that the input is valid.
+● Following input from the request body, we must save the data in the database.
+● For the second POST API, we must take the request body as input, and apply validations to ensure
+that the information is correct.
+● After receiving data from the request body, we must store it in the database.
+● And for the books POST API we need to pass the input in the request body or in Form Data which include books cover image so we need Multer package and, we must also perform validations on the input.
+● After receiving the input and validating it we then need to return the details of the books by retrieving it from the database.
+
+Project Link: Github Link:
+https://github.com/sikendrakumarverma/MERN_Based_BooksManagement
