@@ -2,6 +2,11 @@
 
 ## Project - Books Management
 
+Project UI Demo Video:
+https://drive.google.com/file/d/1DXXta_vYKQUoZnA4Qo0lkWH_V9toGwOe/view?usp=share_link
+
+https://drive.google.com/file/d/1a9X49lDKqXYpzenc1-RHa18WnHrPLNEy/view?usp=share_link
+
 ### Key points
 - Create a group database `groupXDatabase`. You can clean the db you previously used and resue that.
 - This time each group should have a *single git branch*. Coordinate amongst yourselves by ensuring every next person pulls the code last pushed by a team mate. You branch will be checked as part of the demo. Branch name should follow the naming convention `project/booksManagementGroupX`
