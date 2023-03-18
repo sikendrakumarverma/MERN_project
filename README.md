@@ -6,6 +6,8 @@ Project UI Demo Video:
 https://drive.google.com/file/d/1DXXta_vYKQUoZnA4Qo0lkWH_V9toGwOe/view?usp=share_link
 
 https://drive.google.com/file/d/1a9X49lDKqXYpzenc1-RHa18WnHrPLNEy/view?usp=share_link
+Site Link:
+https://mernbookmanagement-njeajwz3x-sikendrakumarverma.vercel.app/
 
 ### Key points
 - Create a group database `groupXDatabase`. You can clean the db you previously used and resue that.
